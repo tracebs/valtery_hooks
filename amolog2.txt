@@ -1,0 +1,29 @@
+Start fncAmocrmUpdateLeadContact
+	================================
+	Lead - updated!
+	================================
+	Subj hook started incl10 leadsupdate - idNextResponsible:594489  10:{"boolOk":true,"arrResponse":{"leads":{"update":[{"id":9588028,"last_modified":1452756635}]},"server_time":1452756637}}
+	================================
+	Subj hook started incl5.0 - From contact id:20833386 responsible_user_id = 594489
+	================================
+	Subj hook started incl5.2 5.2
+	================================
+	Subj hook started incl1 -  New idNextResponsible:591174
+	================================
+	Lead - updated!
+	================================
+	Subj hook started incl10 leadsupdate - idNextResponsible:594489  10:{"boolOk":true,"arrResponse":{"leads":{"update":[{"id":9588030,"last_modified":1452756637}]},"server_time":1452756638}}
+	================================
+	Subj hook started incl2 - 2:1!Array
+	================================
+	Subj hook started incl3 - 3:{"boolOk":true,"arrResponse":{"links":[{"contact_id":"21310336","lead_id":"9588032","last_modified":1452755484},{"contact_id":"26033068","lead_id":"9588032","last_modified":1452755484}],"server_time":1452756639}}
+	================================
+	Subj hook started incl5.0 - From contact id:21310336 responsible_user_id = 624678
+	================================
+	Subj hook started incl5.2 5.2
+	================================
+	Lead - updated!
+	================================
+	Subj hook started incl10 leadsupdate - idNextResponsible:624678  10:{"boolOk":true,"arrResponse":{"leads":{"update":[{"id":9588032,"last_modified":1452756640}]},"server_time":1452756640}}
+	================================
+	
